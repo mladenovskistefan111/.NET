@@ -1,0 +1,11 @@
+/home/kali/Desktop/C#/test/HRAdministrationAPI/bin/Debug/net9.0/HRAdministrationAPI.deps.json
+/home/kali/Desktop/C#/test/HRAdministrationAPI/bin/Debug/net9.0/HRAdministrationAPI.dll
+/home/kali/Desktop/C#/test/HRAdministrationAPI/bin/Debug/net9.0/HRAdministrationAPI.pdb
+/home/kali/Desktop/C#/test/HRAdministrationAPI/obj/Debug/net9.0/HRAdministrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/C#/test/HRAdministrationAPI/obj/Debug/net9.0/HRAdministrationAPI.AssemblyInfoInputs.cache
+/home/kali/Desktop/C#/test/HRAdministrationAPI/obj/Debug/net9.0/HRAdministrationAPI.AssemblyInfo.cs
+/home/kali/Desktop/C#/test/HRAdministrationAPI/obj/Debug/net9.0/HRAdministrationAPI.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/C#/test/HRAdministrationAPI/obj/Debug/net9.0/HRAdministrationAPI.dll
+/home/kali/Desktop/C#/test/HRAdministrationAPI/obj/Debug/net9.0/refint/HRAdministrationAPI.dll
+/home/kali/Desktop/C#/test/HRAdministrationAPI/obj/Debug/net9.0/HRAdministrationAPI.pdb
+/home/kali/Desktop/C#/test/HRAdministrationAPI/obj/Debug/net9.0/ref/HRAdministrationAPI.dll

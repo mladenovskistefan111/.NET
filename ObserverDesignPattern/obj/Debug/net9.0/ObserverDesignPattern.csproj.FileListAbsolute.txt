@@ -1,0 +1,14 @@
+/home/kali/Desktop/C#/test/ObserverDesignPattern/bin/Debug/net9.0/ObserverDesignPattern
+/home/kali/Desktop/C#/test/ObserverDesignPattern/bin/Debug/net9.0/ObserverDesignPattern.deps.json
+/home/kali/Desktop/C#/test/ObserverDesignPattern/bin/Debug/net9.0/ObserverDesignPattern.runtimeconfig.json
+/home/kali/Desktop/C#/test/ObserverDesignPattern/bin/Debug/net9.0/ObserverDesignPattern.dll
+/home/kali/Desktop/C#/test/ObserverDesignPattern/bin/Debug/net9.0/ObserverDesignPattern.pdb
+/home/kali/Desktop/C#/test/ObserverDesignPattern/obj/Debug/net9.0/ObserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/C#/test/ObserverDesignPattern/obj/Debug/net9.0/ObserverDesignPattern.AssemblyInfoInputs.cache
+/home/kali/Desktop/C#/test/ObserverDesignPattern/obj/Debug/net9.0/ObserverDesignPattern.AssemblyInfo.cs
+/home/kali/Desktop/C#/test/ObserverDesignPattern/obj/Debug/net9.0/ObserverDesignPattern.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/C#/test/ObserverDesignPattern/obj/Debug/net9.0/ObserverDesignPattern.dll
+/home/kali/Desktop/C#/test/ObserverDesignPattern/obj/Debug/net9.0/refint/ObserverDesignPattern.dll
+/home/kali/Desktop/C#/test/ObserverDesignPattern/obj/Debug/net9.0/ObserverDesignPattern.pdb
+/home/kali/Desktop/C#/test/ObserverDesignPattern/obj/Debug/net9.0/ObserverDesignPattern.genruntimeconfig.cache
+/home/kali/Desktop/C#/test/ObserverDesignPattern/obj/Debug/net9.0/ref/ObserverDesignPattern.dll

@@ -1,0 +1,14 @@
+/home/kali/Desktop/C#/test/DelegateExample/bin/Debug/net9.0/DelegateExample
+/home/kali/Desktop/C#/test/DelegateExample/bin/Debug/net9.0/DelegateExample.deps.json
+/home/kali/Desktop/C#/test/DelegateExample/bin/Debug/net9.0/DelegateExample.runtimeconfig.json
+/home/kali/Desktop/C#/test/DelegateExample/bin/Debug/net9.0/DelegateExample.dll
+/home/kali/Desktop/C#/test/DelegateExample/bin/Debug/net9.0/DelegateExample.pdb
+/home/kali/Desktop/C#/test/DelegateExample/obj/Debug/net9.0/DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/C#/test/DelegateExample/obj/Debug/net9.0/DelegateExample.AssemblyInfoInputs.cache
+/home/kali/Desktop/C#/test/DelegateExample/obj/Debug/net9.0/DelegateExample.AssemblyInfo.cs
+/home/kali/Desktop/C#/test/DelegateExample/obj/Debug/net9.0/DelegateExample.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/C#/test/DelegateExample/obj/Debug/net9.0/DelegateExample.dll
+/home/kali/Desktop/C#/test/DelegateExample/obj/Debug/net9.0/refint/DelegateExample.dll
+/home/kali/Desktop/C#/test/DelegateExample/obj/Debug/net9.0/DelegateExample.pdb
+/home/kali/Desktop/C#/test/DelegateExample/obj/Debug/net9.0/DelegateExample.genruntimeconfig.cache
+/home/kali/Desktop/C#/test/DelegateExample/obj/Debug/net9.0/ref/DelegateExample.dll

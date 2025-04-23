@@ -1,0 +1,14 @@
+/home/kali/Desktop/C#/test/GenericsBasics/obj/Debug/net9.0/GenericsBasics.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/C#/test/GenericsBasics/obj/Debug/net9.0/GenericsBasics.AssemblyInfoInputs.cache
+/home/kali/Desktop/C#/test/GenericsBasics/obj/Debug/net9.0/GenericsBasics.AssemblyInfo.cs
+/home/kali/Desktop/C#/test/GenericsBasics/obj/Debug/net9.0/GenericsBasics.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/C#/test/GenericsBasics/bin/Debug/net9.0/GenericsBasics
+/home/kali/Desktop/C#/test/GenericsBasics/bin/Debug/net9.0/GenericsBasics.deps.json
+/home/kali/Desktop/C#/test/GenericsBasics/bin/Debug/net9.0/GenericsBasics.runtimeconfig.json
+/home/kali/Desktop/C#/test/GenericsBasics/bin/Debug/net9.0/GenericsBasics.dll
+/home/kali/Desktop/C#/test/GenericsBasics/bin/Debug/net9.0/GenericsBasics.pdb
+/home/kali/Desktop/C#/test/GenericsBasics/obj/Debug/net9.0/GenericsBasics.dll
+/home/kali/Desktop/C#/test/GenericsBasics/obj/Debug/net9.0/refint/GenericsBasics.dll
+/home/kali/Desktop/C#/test/GenericsBasics/obj/Debug/net9.0/GenericsBasics.pdb
+/home/kali/Desktop/C#/test/GenericsBasics/obj/Debug/net9.0/GenericsBasics.genruntimeconfig.cache
+/home/kali/Desktop/C#/test/GenericsBasics/obj/Debug/net9.0/ref/GenericsBasics.dll

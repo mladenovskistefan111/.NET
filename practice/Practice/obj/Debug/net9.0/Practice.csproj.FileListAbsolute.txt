@@ -1,0 +1,14 @@
+/home/kali/Desktop/C#/test/practice/Practice/bin/Debug/net9.0/Practice
+/home/kali/Desktop/C#/test/practice/Practice/bin/Debug/net9.0/Practice.deps.json
+/home/kali/Desktop/C#/test/practice/Practice/bin/Debug/net9.0/Practice.runtimeconfig.json
+/home/kali/Desktop/C#/test/practice/Practice/bin/Debug/net9.0/Practice.dll
+/home/kali/Desktop/C#/test/practice/Practice/bin/Debug/net9.0/Practice.pdb
+/home/kali/Desktop/C#/test/practice/Practice/obj/Debug/net9.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/C#/test/practice/Practice/obj/Debug/net9.0/Practice.AssemblyInfoInputs.cache
+/home/kali/Desktop/C#/test/practice/Practice/obj/Debug/net9.0/Practice.AssemblyInfo.cs
+/home/kali/Desktop/C#/test/practice/Practice/obj/Debug/net9.0/Practice.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/C#/test/practice/Practice/obj/Debug/net9.0/Practice.dll
+/home/kali/Desktop/C#/test/practice/Practice/obj/Debug/net9.0/refint/Practice.dll
+/home/kali/Desktop/C#/test/practice/Practice/obj/Debug/net9.0/Practice.pdb
+/home/kali/Desktop/C#/test/practice/Practice/obj/Debug/net9.0/Practice.genruntimeconfig.cache
+/home/kali/Desktop/C#/test/practice/Practice/obj/Debug/net9.0/ref/Practice.dll
